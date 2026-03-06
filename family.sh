@@ -1,2 +1,2 @@
 echo "welcome my dear family"
-echo "major"
+echo "major ok"
